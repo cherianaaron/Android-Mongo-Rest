@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidMongoRest</string>
+    <string name="get_all">getAll</string>
+    <string name="get_collection">getCollection</string>
+    <string name="insert_to_collection">insertToCollection</string>
+    <string name="create_collection">createCollection</string>
+</resources>
